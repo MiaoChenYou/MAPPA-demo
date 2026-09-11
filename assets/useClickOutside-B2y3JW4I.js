@@ -1,0 +1,1 @@
+import{D as e,T as t,rt as n}from"./_plugin-vue_export-helper-rRiYoqsb.js";function r(r,i){function a(e){let t=n(r),a=e.target;t&&a instanceof Node&&!t.contains(a)&&i()}e(()=>document.addEventListener(`pointerdown`,a)),t(()=>document.removeEventListener(`pointerdown`,a))}export{r as t};

@@ -1,1 +1,0 @@
-var e=`/MAPPA-demo/assets/rain-lane-CHnUc0TK.png`;export{e as t};
